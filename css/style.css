@@ -1,0 +1,32 @@
+ div{
+    background-color:#c3b4ab; 
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+    border: solid #b57754 2px;
+ }
+ body {
+    background-color: #fff5e2;
+ }
+ button{ size: 500px;
+    color: #b57754;
+    background-color: #c3b4ab;
+    border-radius: 20px;
+    width: 200px;
+    height: 35px;
+    border: #b57754 solid 2px;
+
+  }
+  ol {
+    height:100px ;
+    width: 150px;
+    background-color: #c3b4ab;
+    border: #b57754 solid 2px;
+    border-radius: 20px;
+   }
+   select  {
+    color: #c3b4ab;
+   }
+   option {
+    color: #b57754;
+   }
